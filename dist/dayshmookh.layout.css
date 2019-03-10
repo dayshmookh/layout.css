@@ -46,6 +46,10 @@ main {
     overflow: hidden;
 }
 
+.rounded-no-hide {
+    border-radius: 8px;
+}
+
 .curvy {
     border-radius: 64px;
     overflow: hidden;
