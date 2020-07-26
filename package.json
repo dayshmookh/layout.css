@@ -1,0 +1,19 @@
+{
+  "name": "@root-kings/layout.css",
+  "version": "1.0.0",
+  "main": "layout.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/root-kings/layout.css.git"
+  },
+  "author": {
+    "name": "Krushn Dayshmookh",
+    "email": "krushndayshmookh@gmail.com"
+  },
+  "homepage": "https://github.com/root-kings/layout.css",
+  "license": "MIT",
+  "style": "./layout.css",
+  "files": [
+    "layout.css",
+  ]
+}
